@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Tennis reservation App (Java)<br>🌱 I’m currently learning: Linux/Postgre/Docker<br>⚡ Fun fact: before working in finance I was not aware I'm passionate about tech
+🔭 I’m currently working on: Exam web application<br>🌱 I’m currently learning: Linux/Postgre/Docker<br>⚡ Fun fact: before working in finance I was not aware I'm passionate about tech
 
 
 ## 🌐 Socials:
